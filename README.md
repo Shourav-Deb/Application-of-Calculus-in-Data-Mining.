@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./main/B.jpeg)
+<img align="center" alt="Coding" width="360" src="https://raw.githubusercontent.com/Shourav-Deb/Pic-Saver/main/Application-of-Calculus-in-Data-Mining/B.jpeg?token=GHSAT0AAAAAAB453PIDHGSXZ3ZSWGOQJKDOY6YBRPQ">
 
 <h1 align="center"><b># Application-of-Calculus-in-Data-Mining.</h1>
   
