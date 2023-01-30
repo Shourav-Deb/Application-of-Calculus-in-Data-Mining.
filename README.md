@@ -8,6 +8,6 @@
   
 <p><b>In one of my math classes, I was required to deliver a team-based presentation on the application of calculus in data mining. Due to my weak teammates, I therefore alone developed a presentation slide (with speech included) on the subject.</p>
 
- <b> It includes :
-                       -  PPTX File.
-                       -  PDF File.
+ -<b> It includes :
+                       <b>*  PPTX File.
+                       <b>*  PDF File.
