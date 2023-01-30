@@ -6,4 +6,8 @@
  
 <h3 align="center">  This is a presentation based repository on the application of calculus in data mining.</h3>
   
-<p>In one of my math classes, I was required to deliver a team-based presentation on the application of calculus in data mining. Due to my weak teammates, I therefore alone developed a presentation slide (with speech included) on the subject.</p>
+<p><b>In one of my math classes, I was required to deliver a team-based presentation on the application of calculus in data mining. Due to my weak teammates, I therefore alone developed a presentation slide (with speech included) on the subject.</p>
+
+  - <b> It includes :
+                       * PPTX File.
+                       * PDF File.
