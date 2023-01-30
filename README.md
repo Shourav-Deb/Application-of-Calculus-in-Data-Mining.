@@ -1,6 +1,6 @@
 <h1 align="center"><b># Application-of-Calculus-in-Data-Mining.</h1>
   
-<img align="left" alt="Coding" width="360" src="https://miro.medium.com/max/768/1*53ewUU4z23OSxAvqp154AA.jpeg">
+<img align="left" alt="Coding" width="660" src="https://miro.medium.com/max/768/1*53ewUU4z23OSxAvqp154AA.jpeg">
 
 
  
