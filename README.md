@@ -1,6 +1,6 @@
 <h1 align="center"><b># Application-of-Calculus-in-Data-Mining.</h1>
   
-<img align="left" alt="Coding" width="300" src="https://raw.githubusercontent.com/Shourav-Deb/Pic-Saver/main/Application-of-Calculus-in-Data-Mining/B.jpeg?token=GHSAT0AAAAAAB453PIDHGSXZ3ZSWGOQJKDOY6YBRPQ">
+<img align="center" alt="Coding" width="360" src="https://raw.githubusercontent.com/Shourav-Deb/Pic-Saver/main/Application-of-Calculus-in-Data-Mining/B.jpeg?token=GHSAT0AAAAAAB453PIDHGSXZ3ZSWGOQJKDOY6YBRPQ">
 
 
  
