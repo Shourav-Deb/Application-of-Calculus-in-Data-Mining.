@@ -1,4 +1,4 @@
-<h1 align="center"><b><img alt="Coding" width="70" src="https://i.pinimg.com/originals/5f/c8/27/5fc8274d53ec1a63a30e9faf9c8794f9.gif"> # Application-of-Calculus-in-Data-Mining<img alt="Coding" width="70" src="https://i.pinimg.com/originals/5f/c8/27/5fc8274d53ec1a63a30e9faf9c8794f9.gif"></h1>
+<h1 align="center"><b><img alt="Coding" width="70" src="https://i.pinimg.com/originals/5f/c8/27/5fc8274d53ec1a63a30e9faf9c8794f9.gif">  # Application-of-Calculus-in-Data-Mining <img alt="Coding" width="70" src="https://i.pinimg.com/originals/5f/c8/27/5fc8274d53ec1a63a30e9faf9c8794f9.gif"></h1>
   
 <img align="left" alt="Coding" width="475" src="https://i.pinimg.com/originals/90/4f/b2/904fb24e0e71707ba1647143d0a2dd6f.jpg">
 
